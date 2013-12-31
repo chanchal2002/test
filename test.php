@@ -1,4 +1,4 @@
 <?php 
-echo "This is Test for my new account"
+echo "This is Test for my new account" ;
 
 ?>
